@@ -14,7 +14,7 @@ The Order Processing System is a Spring Boot application that handles the creati
 
 1. **Clone the repository**  
    ```
-   git clone https://github.com/yourusername/OrderProcessingSystem.git
+   git clone https://github.com/Knighteye097/order_processing_system.git
    cd OrderProcessingSystem
    ```
 
@@ -69,4 +69,3 @@ mvn test
 ## License
 
 This project is licensed under the MIT License.
-```
